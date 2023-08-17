@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  [x-cloak] {
+    display: none !important;
+  }
+  html {
+    @apply scroll-smooth;
+  }
+  body {
+    @apply text-indigo-900 text-lg;
+    font-family: "Poppins", sans-serif;
+  }
+}
+@layer components {
+  .seccion {
+    @apply py-9 mx-auto px-9 md:w-full max-w-lg;
+  }
+  .anclas {
+    @apply inline-block px-2;
+  }
+}

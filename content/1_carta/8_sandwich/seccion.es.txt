@@ -1,0 +1,24 @@
+Title: Sandwich
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Mixto
+  descripcion: ""
+  precio: 2.5
+- 
+  tipo: item
+  tit: Vegetal
+  descripcion: >
+    Con lechuga, tomate, aguacate, atún,
+    queso y cebolla. Sofrito de setas,
+    champiñones, cebolla, soja y pimiento
+    rojo y verde
+  precio: 3.5
+
+----
+
+Uuid: AwVJZq38Zpbb7p0j

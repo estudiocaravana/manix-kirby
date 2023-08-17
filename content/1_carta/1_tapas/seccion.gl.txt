@@ -1,0 +1,61 @@
+Title: Tapas
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Tortilla
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Luras frixidas
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: 'Luras en tinta '
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: 'Albóndegas '
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Costela guisada
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Callos
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Riles
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Olivas
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: extra
+  tit: Tapa dobre
+  descripcion: ""
+  precio: 1.6
+- 
+  tipo: extra
+  tit: Ración
+  descripcion: ""
+  precio: 4
+- 
+  tipo: extra
+  tit: Pan
+  descripcion: ""
+  precio: 1.5

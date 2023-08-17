@@ -1,0 +1,20 @@
+Title: Perritos
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Solo
+  descripcion: ""
+  precio: 2.8
+- 
+  tipo: extra
+  tit: Extra
+  descripcion: ""
+  precio: 0.5
+
+----
+
+Uuid: eKNisjTEHOKiKUoI

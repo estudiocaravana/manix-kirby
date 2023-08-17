@@ -1,0 +1,35 @@
+Title: Complementos
+
+----
+
+Items:
+
+- 
+  tipo: extra
+  tit: Patatas fritas
+  descripcion: ""
+  precio: 3
+- 
+  tipo: extra
+  tit: Ensalada
+  descripcion: ""
+  precio: 4
+- 
+  tipo: extra
+  tit: Extra de tomate, cebolla o lechuga
+  descripcion: ""
+  precio: 0.2
+- 
+  tipo: extra
+  tit: Extra de lomo, bacon, queso o york
+  descripcion: ""
+  precio: 0.5
+- 
+  tipo: extra
+  tit: Extra de huevo
+  descripcion: ""
+  precio: 0.6
+
+----
+
+Uuid: GIKaxYLIeUDnkQHt

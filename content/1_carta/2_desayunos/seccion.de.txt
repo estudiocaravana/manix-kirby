@@ -1,0 +1,86 @@
+Title: Frühstück
+
+----
+
+Items:
+
+- 
+  tipo: subsec
+  tit: Feine Backwaren
+  descripcion: ""
+  precio: ""
+- 
+  tipo: item
+  tit: Churros (Spritzgebäck)
+  descripcion: ""
+  precio: 0.2
+- 
+  tipo: item
+  tit: Kekse
+  descripcion: ""
+  precio: 0.5
+- 
+  tipo: item
+  tit: Vollkornkekse
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Valencianische Muffins
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Traditionelle Muffins
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Donuts
+  descripcion: ""
+  precio: 1
+- 
+  tipo: item
+  tit: Croissants
+  descripcion: ""
+  precio: 1
+- 
+  tipo: subsec
+  tit: Toast
+  descripcion: ""
+  precio: ""
+- 
+  tipo: subtit
+  tit: Handgemachtes Brot oder Kastenbrot
+  descripcion: ""
+  precio: ""
+- 
+  tipo: item
+  tit: Butter und/oder Marmelade
+  descripcion: ""
+  precio: 0.9
+- 
+  tipo: item
+  tit: Öl und Tomaten
+  descripcion: ""
+  precio: 1.3
+- 
+  tipo: item
+  tit: 'Serrano-Schinken '
+  descripcion: ""
+  precio: 1.6
+- 
+  tipo: item
+  tit: Avocado
+  descripcion: ""
+  precio: 1.6
+- 
+  tipo: item
+  tit: Honig
+  descripcion: ""
+  precio: 1.6
+- 
+  tipo: extra
+  tit: Extra
+  descripcion: ""
+  precio: 0.2

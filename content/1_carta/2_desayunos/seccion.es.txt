@@ -1,0 +1,90 @@
+Title: Desayunos
+
+----
+
+Items:
+
+- 
+  tipo: subsec
+  tit: Bollería
+  descripcion: ""
+  precio: ""
+- 
+  tipo: item
+  tit: Churros
+  descripcion: ""
+  precio: 0.2
+- 
+  tipo: item
+  tit: Galletas
+  descripcion: ""
+  precio: 0.5
+- 
+  tipo: item
+  tit: Galletas integrales
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Magdalenas valencianas
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Magdalenas tradicionales
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Donuts
+  descripcion: ""
+  precio: 1
+- 
+  tipo: item
+  tit: Croissants
+  descripcion: ""
+  precio: 1
+- 
+  tipo: subsec
+  tit: Tostadas
+  descripcion: ""
+  precio: ""
+- 
+  tipo: subtit
+  tit: Pan artesano o pan de molde
+  descripcion: ""
+  precio: ""
+- 
+  tipo: item
+  tit: Mantequilla y/o mermelada
+  descripcion: ""
+  precio: 0.9
+- 
+  tipo: item
+  tit: Aceite y tomate
+  descripcion: ""
+  precio: 1.3
+- 
+  tipo: item
+  tit: Jamón serrano
+  descripcion: ""
+  precio: 1.6
+- 
+  tipo: item
+  tit: Aguacate
+  descripcion: ""
+  precio: 1.6
+- 
+  tipo: item
+  tit: Miel
+  descripcion: ""
+  precio: 1.6
+- 
+  tipo: extra
+  tit: Extra
+  descripcion: ""
+  precio: 0.2
+
+----
+
+Uuid: uasgAlq9iJYV5pwa

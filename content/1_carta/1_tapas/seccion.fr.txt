@@ -1,0 +1,61 @@
+Title: Tapas
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Omelette
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Calamars frits
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: "Calamars à l'encre"
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Boulettes de viande
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Ragoût de côtelette
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Tripes
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Rognons
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Olives
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: extra
+  tit: Tapas double
+  descripcion: ""
+  precio: 1.6
+- 
+  tipo: extra
+  tit: Ration
+  descripcion: ""
+  precio: 4
+- 
+  tipo: extra
+  tit: Pain
+  descripcion: ""
+  precio: 1.5

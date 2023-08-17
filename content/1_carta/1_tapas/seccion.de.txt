@@ -1,0 +1,61 @@
+Title: Tapas
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Tortilla
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Gebratener Tintenfisch
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: 'Tintenfisch in eigener Tinte '
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: 'Fleischbällchen '
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Geschmorte Rippe
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Callos (Kutteln)
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Nieren
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: item
+  tit: Oliven
+  descripcion: ""
+  precio: 0.8
+- 
+  tipo: extra
+  tit: Doppelte Portion Tapas
+  descripcion: ""
+  precio: 1.6
+- 
+  tipo: extra
+  tit: 'Portion '
+  descripcion: ""
+  precio: 4
+- 
+  tipo: extra
+  tit: Brot
+  descripcion: ""
+  precio: 1.5

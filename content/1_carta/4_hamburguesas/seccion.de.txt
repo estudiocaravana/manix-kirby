@@ -1,0 +1,79 @@
+Title: Hamburger
+
+----
+
+Items:
+
+- 
+  tipo: subtit
+  tit: 'auf handgemachtem '
+  descripcion: ""
+  precio: ""
+- 
+  tipo: subsec
+  tit: Brot Fleisch
+  descripcion: ""
+  precio: ""
+- 
+  tipo: subtit
+  tit: 'Hausgemachte Mischung. 75% Rind, 25% Schwein'
+  descripcion: ""
+  precio: ""
+- 
+  tipo: item
+  tit: 'Einfach '
+  descripcion: ""
+  precio: 3.2
+- 
+  tipo: item
+  tit: Komplett
+  descripcion: Con lechuga, tomate, cebolla y queso
+  precio: 4.3
+- 
+  tipo: item
+  tit: Milhomes
+  descripcion: >
+    Con bacon, lomo, tomate, lechuga, queso
+    y cebolla
+  precio: 5.3
+- 
+  tipo: subsec
+  tit: Proteína vegetal
+  descripcion: ""
+  precio: ""
+- 
+  tipo: subtit
+  tit: Beyond Meat
+  descripcion: ""
+  precio: ""
+- 
+  tipo: item
+  tit: Vegetariana
+  descripcion: >
+    Con lechuga, tomate, aguacate, cebolla y
+    queso. Sofrito de setas, champiñones,
+    cebolla, soja y pimiento rojo y verde
+  precio: 5.1
+- 
+  tipo: item
+  tit: Vegana
+  descripcion: >
+    Con lechuga, tomate, aguacate y cebolla.
+    Sofrito de setas, champiñones, cebolla,
+    soja y pimiento rojo y verde
+  precio: 4.6
+- 
+  tipo: subsec
+  tit: Bonito
+  descripcion: ""
+  precio: ""
+- 
+  tipo: item
+  tit: O vello Simbad
+  descripcion: >
+    Hamburguesa de lomo de bonito de lonja
+    en salsa de soja sin conservantes. Salsa
+    de mayonesa y wasabi. Sofrito de setas,
+    champiñones, cebolla, soja y pimiento
+    rojo y verde
+  precio: 5.8

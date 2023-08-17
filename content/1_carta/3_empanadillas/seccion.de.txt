@@ -1,0 +1,58 @@
+Title: Empanadillas (Pastetchen)
+
+----
+
+Items:
+
+- 
+  tipo: subtit
+  tit: >
+    Von Oma Concha. 50 Jahre Kochen mit
+    hausgemachten Zutaten
+  descripcion: ""
+  precio: ""
+- 
+  tipo: item
+  tit: Fleisch
+  descripcion: ""
+  precio: 1
+- 
+  tipo: item
+  tit: 'Hähnchen '
+  descripcion: ""
+  precio: 1
+- 
+  tipo: item
+  tit: Trifásico (Kaffee mit drei Schichten)
+  descripcion: ""
+  precio: 1
+- 
+  tipo: item
+  tit: Käse
+  descripcion: ""
+  precio: 1
+- 
+  tipo: item
+  tit: Steckrüben mit Garnelen
+  descripcion: ""
+  precio: 1
+- 
+  tipo: item
+  tit: Thunfisch
+  descripcion: ""
+  precio: 1
+- 
+  tipo: item
+  tit: 'Pilze '
+  descripcion: ""
+  precio: 1
+- 
+  tipo: item
+  tit: 'Tintenfisch '
+  descripcion: ""
+  precio: 1
+- 
+  tipo: item
+  tit: Zamburiñas (Kammmuscheln)
+  descripcion: ""
+  precio: 1

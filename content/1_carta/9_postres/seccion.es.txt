@@ -1,0 +1,20 @@
+Title: Postres
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Helado
+  descripcion: Yogurt, vainilla, Avellana o chocolate
+  precio: 3
+- 
+  tipo: item
+  tit: Coulant de chocolate
+  descripcion: ""
+  precio: 3
+
+----
+
+Uuid: zshcNhXqWLZBdmEB

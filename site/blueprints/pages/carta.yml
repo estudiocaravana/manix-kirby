@@ -1,0 +1,22 @@
+title: Carta
+
+columns:
+  main:
+    width: 1/2
+    sections:
+      fields:
+        type: fields
+        fields:
+          alergenos:
+            type: textarea
+            label: Alérgenos
+          volver:
+            type: text
+            label: Volver arriba
+  sidebar:
+    width: 1/2
+    sections:
+      pages:
+        type: pages
+        template: seccion
+        label: Secciones

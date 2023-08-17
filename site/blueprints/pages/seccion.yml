@@ -1,0 +1,24 @@
+title: Secciones
+
+fields:
+  items:
+    label: Items
+    type: structure
+    fields:
+      tipo:
+        label: Tipo
+        type: select
+        options:
+          item: Item
+          subtit: Subtítulo
+          subsec: Subsección
+          extra: Extra
+      tit:
+        label: Título
+        type: text
+      descripcion:
+        label: Descripción
+        type: text
+      precio:
+        label: Precio
+        type: number

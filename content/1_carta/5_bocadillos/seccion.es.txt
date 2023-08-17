@@ -1,0 +1,67 @@
+Title: Bocadillos
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Lomo
+  descripcion: ""
+  precio: 2.7
+- 
+  tipo: item
+  tit: Bacon
+  descripcion: ""
+  precio: 2.7
+- 
+  tipo: item
+  tit: Chorizo
+  descripcion: ""
+  precio: 2.8
+- 
+  tipo: item
+  tit: Queso
+  descripcion: ""
+  precio: 2.8
+- 
+  tipo: item
+  tit: Tortilla
+  descripcion: ""
+  precio: 3.1
+- 
+  tipo: item
+  tit: Jamón serrano
+  descripcion: ""
+  precio: 3.1
+- 
+  tipo: item
+  tit: Calamares
+  descripcion: ""
+  precio: 3.6
+- 
+  tipo: item
+  tit: Trifásico
+  descripcion: Bacon, lomo y queso
+  precio: 3.7
+- 
+  tipo: item
+  tit: Pollo
+  descripcion: ""
+  precio: 3.6
+- 
+  tipo: item
+  tit: Especial de pollo
+  descripcion: Pollo, lechuga, tomate, cebolla y queso
+  precio: 4.7
+- 
+  tipo: item
+  tit: Milmulleres
+  descripcion: >
+    Pollo, bacon, lomo, lechuga, tomate,
+    cebolla y queso
+  precio: 5.7
+
+----
+
+Uuid: 6WT8KHcm153BPW6I
