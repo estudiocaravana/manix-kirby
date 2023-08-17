@@ -1,0 +1,19 @@
+Title: Sandwich
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Mix
+  descripcion: ""
+  precio: 2.5
+- 
+  tipo: item
+  tit: Vegetable
+  descripcion: >
+    With lettuce, tomato, avocado, tuna,
+    cheese and onion. Mushroom, onion, soy
+    and red and green pepper sofrito
+  precio: 3.5

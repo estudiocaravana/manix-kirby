@@ -1,0 +1,16 @@
+Title: Hotdogs
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Only
+  descripcion: ""
+  precio: 2.8
+- 
+  tipo: extra
+  tit: Extra
+  descripcion: ""
+  precio: 0.5

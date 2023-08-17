@@ -1,0 +1,20 @@
+Title: Sándwich
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Mixto
+  descripcion: ""
+  precio: 2.5
+- 
+  tipo: item
+  tit: Vexetal
+  descripcion: >
+    Con leituga, tomate, aguacate, atún,
+    queixo e cebola. Rustrido de cogomelos,
+    champiñóns, cebola, soia e pemento
+    vermello e verde
+  precio: 3.5

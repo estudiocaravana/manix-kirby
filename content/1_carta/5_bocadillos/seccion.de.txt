@@ -1,0 +1,65 @@
+Title: Belegte Brötchen
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Schweinefilet
+  descripcion: ""
+  precio: 2.7
+- 
+  tipo: item
+  tit: Bacon
+  descripcion: ""
+  precio: 2.7
+- 
+  tipo: item
+  tit: Chorizo
+  descripcion: ""
+  precio: 2.8
+- 
+  tipo: item
+  tit: Käse
+  descripcion: ""
+  precio: 2.8
+- 
+  tipo: item
+  tit: Tortilla
+  descripcion: ""
+  precio: 3.1
+- 
+  tipo: item
+  tit: 'Serrano-Schinken '
+  descripcion: ""
+  precio: 3.1
+- 
+  tipo: item
+  tit: 'Tintenfisch '
+  descripcion: ""
+  precio: 3.6
+- 
+  tipo: item
+  tit: Trifásico
+  descripcion: Bacon, Schweinefilet und Käse
+  precio: 3.7
+- 
+  tipo: item
+  tit: Huhn
+  descripcion: ""
+  precio: 3.6
+- 
+  tipo: item
+  tit: Hähnchen Spezial
+  descripcion: >
+    Hähnchenfleisch, Salat, Tomaten,
+    Zwiebeln und Käse
+  precio: 4.7
+- 
+  tipo: item
+  tit: Milmulleres
+  descripcion: >
+    Hähnchenfleisch, Bacon, Schweinefilet,
+    Salat, Tomaten, Zwiebeln und Käse
+  precio: 5.7

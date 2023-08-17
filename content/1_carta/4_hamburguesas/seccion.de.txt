@@ -27,18 +27,18 @@ Items:
 - 
   tipo: item
   tit: Komplett
-  descripcion: Con lechuga, tomate, cebolla y queso
+  descripcion: Mit Salat, Tomaten, Zwiebeln und Käse
   precio: 4.3
 - 
   tipo: item
   tit: Milhomes
   descripcion: >
-    Con bacon, lomo, tomate, lechuga, queso
-    y cebolla
+    Mit Speck, Schweinefilet, Tomaten,
+    Salat, Käse und Zwiebeln
   precio: 5.3
 - 
   tipo: subsec
-  tit: Proteína vegetal
+  tit: Pflanzliches Protein
   descripcion: ""
   precio: ""
 - 
@@ -48,32 +48,35 @@ Items:
   precio: ""
 - 
   tipo: item
-  tit: Vegetariana
+  tit: Vegetarisch
   descripcion: >
-    Con lechuga, tomate, aguacate, cebolla y
-    queso. Sofrito de setas, champiñones,
-    cebolla, soja y pimiento rojo y verde
+    Mit Salat, Tomaten, Avocado, Zwiebeln
+    und Käse. Gebratene Pilze, Champignons,
+    Zwiebeln, Soja sowie rote und grüne
+    Paprika
   precio: 5.1
 - 
   tipo: item
-  tit: Vegana
+  tit: Vegan
   descripcion: >
-    Con lechuga, tomate, aguacate y cebolla.
-    Sofrito de setas, champiñones, cebolla,
-    soja y pimiento rojo y verde
+    Mit Salat, Tomaten, Avocado und
+    Zwiebeln. Gebratene Pilze, Champignons,
+    Zwiebeln, Soja sowie rote und grüne
+    Paprika
   precio: 4.6
 - 
   tipo: subsec
-  tit: Bonito
+  tit: Weiße Thun
   descripcion: ""
   precio: ""
 - 
   tipo: item
   tit: O vello Simbad
   descripcion: >
-    Hamburguesa de lomo de bonito de lonja
-    en salsa de soja sin conservantes. Salsa
-    de mayonesa y wasabi. Sofrito de setas,
-    champiñones, cebolla, soja y pimiento
-    rojo y verde
+    Burger mit Weiße Thun-Filet vom
+    Fischmarkt in Sojasauce ohne
+    Konservierungsstoffe.
+    Mayonnaise-Wasabi-Sauce. Gebratene
+    Pilze, Champignons, Zwiebeln, Soja sowie
+    rote und grüne Paprika
   precio: 5.8

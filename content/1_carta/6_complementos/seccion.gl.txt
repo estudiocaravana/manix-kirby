@@ -1,0 +1,33 @@
+Title: Complementos
+
+----
+
+Items:
+
+- 
+  tipo: extra
+  tit: 'Patacas frixidas '
+  descripcion: ""
+  precio: 3
+- 
+  tipo: extra
+  tit: Ensalada
+  descripcion: ""
+  precio: 4
+- 
+  tipo: extra
+  tit: Extra de tomate, cebola ou leituga
+  descripcion: ""
+  precio: 0.2
+- 
+  tipo: extra
+  tit: >
+    Extra de lombo, beicon, queixo ou xamón
+    cocido
+  descripcion: ""
+  precio: 0.5
+- 
+  tipo: extra
+  tit: Extra de ovo
+  descripcion: ""
+  precio: 0.6

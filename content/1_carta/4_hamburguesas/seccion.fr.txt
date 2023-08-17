@@ -6,17 +6,17 @@ Items:
 
 - 
   tipo: subtit
-  tit: En pan artesanal
+  tit: 'De pain artisanal '
   descripcion: ""
   precio: ""
 - 
   tipo: subsec
-  tit: Carne
+  tit: Viande
   descripcion: ""
   precio: ""
 - 
   tipo: subtit
-  tit: 'Mezcla casera. 75% ternera, 25% cerdo'
+  tit: 'mélange maison. 75 % bœuf, 25 % porc'
   descripcion: ""
   precio: ""
 - 
@@ -26,19 +26,19 @@ Items:
   precio: 3.2
 - 
   tipo: item
-  tit: Completa
-  descripcion: Con lechuga, tomate, cebolla y queso
+  tit: Complet
+  descripcion: 'Avec laitue, tomate, oignon et fromage '
   precio: 4.3
 - 
   tipo: item
   tit: Milhomes
   descripcion: >
-    Con bacon, lomo, tomate, lechuga, queso
-    y cebolla
+    Avec lard fumé, lomo (échine), tomate,
+    laitue, fromage et oignon
   precio: 5.3
 - 
   tipo: subsec
-  tit: Proteína vegetal
+  tit: Protéine végétale
   descripcion: ""
   precio: ""
 - 
@@ -48,32 +48,32 @@ Items:
   precio: ""
 - 
   tipo: item
-  tit: Vegetariana
+  tit: Végétarienne
   descripcion: >
-    Con lechuga, tomate, aguacate, cebolla y
-    queso. Sofrito de setas, champiñones,
-    cebolla, soja y pimiento rojo y verde
+    Avec laitue, tomate, avocat, oignon et
+    fromage. Cèpes sautés, champignons,
+    oignon, soja, poivrons rouge et vert
   precio: 5.1
 - 
   tipo: item
-  tit: Vegana
+  tit: Végane
   descripcion: >
-    Con lechuga, tomate, aguacate y cebolla.
-    Sofrito de setas, champiñones, cebolla,
-    soja y pimiento rojo y verde
+    Avec laitue, tomate, avocat et oignon.
+    Cèpes sautés, champignons, oignon,
+    soja, poivrons rouge et vert
   precio: 4.6
 - 
   tipo: subsec
-  tit: Bonito
+  tit: Thon blanc
   descripcion: ""
   precio: ""
 - 
   tipo: item
   tit: O vello Simbad
   descripcion: >
-    Hamburguesa de lomo de bonito de lonja
-    en salsa de soja sin conservantes. Salsa
-    de mayonesa y wasabi. Sofrito de setas,
-    champiñones, cebolla, soja y pimiento
-    rojo y verde
+    Hamburger de longe de thon blanc dans
+    une sauce soja sans conservateurs. Sauce
+    mayonnaise et wasabi. Cèpes sautés,
+    champignons, oignon, soja, poivrons
+    rouge et vert
   precio: 5.8

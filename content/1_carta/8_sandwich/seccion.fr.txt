@@ -1,0 +1,20 @@
+Title: Sandwich
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Mix
+  descripcion: ""
+  precio: 2.5
+- 
+  tipo: item
+  tit: Végétal
+  descripcion: >
+    Avec laitue, tomate, avocat, thon,
+    fromage et oignon. Cèpes sautés,
+    champignons, oignon, soja, poivrons
+    rouge et vert
+  precio: 3.5

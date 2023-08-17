@@ -1,0 +1,20 @@
+Title: Sandwiches
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: e-Mix
+  descripcion: ""
+  precio: 2.5
+- 
+  tipo: item
+  tit: Gemüse
+  descripcion: >
+    Mit Salat, Tomaten, Avocado und
+    Zwiebeln. Gebratene Pilze, Champignons,
+    Zwiebeln, Soja sowie rote und grüne
+    Paprika
+  precio: 3.5

@@ -1,0 +1,16 @@
+Title: Desserts
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Glace
+  descripcion: Yaourt, vanille, noisette ou chocolat
+  precio: 3
+- 
+  tipo: item
+  tit: Coulant au chocolat
+  descripcion: ""
+  precio: 3

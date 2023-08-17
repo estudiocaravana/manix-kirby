@@ -1,0 +1,18 @@
+Title: Desserts
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Eiscreme
+  descripcion: >
+    Joghurt, Vanille, Haselnuss oder
+    Schokoladen
+  precio: 3
+- 
+  tipo: item
+  tit: Schokoladen-Lava-Kuchen
+  descripcion: ""
+  precio: 3

@@ -1,0 +1,16 @@
+Title: Postres
+
+----
+
+Items:
+
+- 
+  tipo: item
+  tit: Xeado
+  descripcion: 'Iogur, vainilla, abelá ou chocolate '
+  precio: 3
+- 
+  tipo: item
+  tit: Volcán de chocolate
+  descripcion: ""
+  precio: 3
