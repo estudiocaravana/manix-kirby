@@ -21,4 +21,4 @@
 </head>
 
 <body id="body" class="bg-repeat" style="background-image: url(<?= url('/assets/img/tabla.jpg') ?>)">
-    <div class="mx-auto overflow-hidden min-h-screen md:grid md:grid-cols-2 lg:border-4 lg:border-indigo-900 lg:max-w-6xl lg:my-12 lg:px-12">
+    <div class="mx-auto overflow-hidden min-h-screen md:grid md:grid-cols-2 lg:border-4 lg:border-indigo-900 xl:max-w-6xl xl:my-12 lg:px-12">

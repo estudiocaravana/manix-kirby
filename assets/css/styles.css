@@ -966,3 +966,14 @@ body {
     padding-right: 3rem;
   }
 }
+
+@media (min-width: 1280px) {
+  .xl\:my-12 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+
+  .xl\:max-w-6xl {
+    max-width: 72rem;
+  }
+}
