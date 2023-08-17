@@ -6,6 +6,7 @@ $secciones = $carta->children()->listed(); ?>
     <div class="w-1 h-12 rounded bg-indigo-900 mx-auto mb-3"></div>
     Café<h1 class="text-5xl font-bold">MANIX</h1>1970
     <div class="w-1 h-12 rounded bg-indigo-900 mx-auto mt-3"></div>
+    <?= snippet('idiomas') ?>
     <div class="text-center leading-loose mt-3 max-w-sm mx-auto">
         <?php foreach ($secciones->not('carta/complementos') as $enlace) : ?>
             <a class="anclas" href="#<?= $enlace->title() ?>"><?= $enlace->title() ?></a>
