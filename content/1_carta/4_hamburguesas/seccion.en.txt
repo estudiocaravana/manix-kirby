@@ -73,6 +73,6 @@ Items:
   descripcion: >
     Albacore loin hamburger in soy sauce
     without preservatives. Mayonnaise and
-    wasabi sauc. Mushroom, onion, soy and
+    wasabi sauce. Mushroom, onion, soy and
     red and green pepper sofrito
   precio: 5.8
