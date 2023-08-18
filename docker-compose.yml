@@ -1,0 +1,14 @@
+version: "3"
+services:
+  kirby:
+    build:
+      context: ./
+      dockerfile: docker/Dockerfile
+    image: manix
+    container_name: manix-kirby
+    ports:
+      - "8000:80"
+    volumes:
+      - ./:/var/www/html/
+    env_file:
+      - ./.env

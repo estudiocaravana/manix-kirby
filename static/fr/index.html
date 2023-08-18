@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site Title | Home</title>
+    <meta name="description" content="">
+    <!-- fuente Poppins -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />
+    <!-- output.css -->
+    <link href="/assets/css/styles.css" rel="stylesheet">    <!-- favicon -->
+    <link rel="shortcut icon" href="/assets/img/favicon.svg" type="image/x-icon">
+    <!-- Alpine con pluging intersect -->
+    <script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/intersect@3.x.x/dist/cdn.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+</head>
+
+<body id="body" class="bg-repeat" style="background-image: url(/assets/img/tabla.jpg)">
+    <div class="mx-auto overflow-hidden min-h-screen md:grid md:grid-cols-2 lg:border-4 lg:border-indigo-900 xl:max-w-6xl xl:my-12 lg:px-12">
+<div id="inicio" class="text-center py-12">
+    <div class="w-1 h-12 rounded bg-indigo-900 mx-auto mb-3"></div>
+    Café<h1 class="text-5xl font-bold">MANIX</h1>1970
+    <div class="w-1 h-12 rounded bg-indigo-900 mx-auto mt-3"></div>
+    <nav class="my-9">
+    <div class="flex mx-auto w-72 justify-between text-base">
+                    <div class="block border border-indigo-800 w-11 h-11 pt-2 rounded-full ">
+                <a href="/de" hreflang="de">
+                    de                </a>
+            </div>
+                    <div class="block border border-indigo-800 w-11 h-11 pt-2 rounded-full ">
+                <a href="/en" hreflang="en">
+                    en                </a>
+            </div>
+                    <div class="block border border-indigo-800 w-11 h-11 pt-2 rounded-full ">
+                <a href="/es" hreflang="es">
+                    es                </a>
+            </div>
+                    <div class="block border border-indigo-800 w-11 h-11 pt-2 rounded-full bg-indigo-900 text-indigo-100">
+                <a href="/fr" hreflang="fr">
+                    fr                </a>
+            </div>
+                    <div class="block border border-indigo-800 w-11 h-11 pt-2 rounded-full ">
+                <a href="/gl" hreflang="gl">
+                    gl                </a>
+            </div>
+            </div>
+</nav>    <div class="text-center leading-loose mt-3 max-w-sm mx-auto">
+                    <a class="anclas" href="#Tapas">Tapas</a>
+                    <a class="anclas" href="#Petits-déjeuners">Petits-déjeuners</a>
+                    <a class="anclas" href="#Beignets">Beignets</a>
+                    <a class="anclas" href="#Hamburgers">Hamburgers</a>
+                    <a class="anclas" href="#Sandwichs">Sandwichs</a>
+                    <a class="anclas" href="#Hot-dogs">Hot-dogs</a>
+                    <a class="anclas" href="#Sandwich">Sandwich</a>
+                    <a class="anclas" href="#Desserts">Desserts</a>
+            </div>
+</div>
+<img src="/assets/img/abuela.png" alt="Abuela Concha haciendo empanadillas" class="block px-9 mx-auto max-w-sm mt-auto" />
+
+    <div id="Tapas" class="seccion">
+                    <div class="flex gap-4 mb-6">
+                <div class="text-2xl font-bold pt-1">Tapas</div>
+                <div class="grow">
+                    <div class="w-full h-1 mt-6 rounded bg-indigo-900 mx-auto mb-3"></div>
+                </div>
+            </div>
+                                            <div class="flex mt-3">
+                    <div>Omelette</div>
+                    <div class="grow text-right">0.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Calamars frits</div>
+                    <div class="grow text-right">0.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Calamars à l'encre</div>
+                    <div class="grow text-right">0.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Boulettes de viande</div>
+                    <div class="grow text-right">0.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Ragoût de côtelette</div>
+                    <div class="grow text-right">0.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Tripes</div>
+                    <div class="grow text-right">0.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Rognons</div>
+                    <div class="grow text-right">0.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Olives</div>
+                    <div class="grow text-right">0.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-6 py-3 border-t border-dotted border-indigo-900">
+                    <div>Tapas double</div>
+                    <div class="grow text-right">1.6 €</div>
+                </div>
+                                                <div class="flex mt-6 py-3 border-t border-dotted border-indigo-900">
+                    <div>Ration</div>
+                    <div class="grow text-right">4 €</div>
+                </div>
+                                                <div class="flex mt-6 py-3 border-t border-dotted border-indigo-900">
+                    <div>Pain</div>
+                    <div class="grow text-right">1.5 €</div>
+                </div>
+                        </div>
+    <div id="Petits-déjeuners" class="seccion">
+                    <div class="flex gap-4 mb-6">
+                <div class="text-2xl font-bold pt-1">Petits-déjeuners</div>
+                <div class="grow">
+                    <div class="w-full h-1 mt-6 rounded bg-indigo-900 mx-auto mb-3"></div>
+                </div>
+            </div>
+                                            <b class="block mt-6 mb-1">Viennoiseries</b>
+                                                <div class="flex mt-3">
+                    <div>Churros</div>
+                    <div class="grow text-right">0.2 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Biscuits</div>
+                    <div class="grow text-right">0.5 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Biscuits complets</div>
+                    <div class="grow text-right">0.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Madeleines valenciennes</div>
+                    <div class="grow text-right">0.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Madeleines traditionnelles</div>
+                    <div class="grow text-right">0.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Donuts</div>
+                    <div class="grow text-right">1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Croissants</div>
+                    <div class="grow text-right">1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <b class="block mt-6 mb-1">Tartines de pain grillé</b>
+                                                <small class="block mb-3 max-w-[360px]">Pain artisanal ou pain de mie</small>
+                                                <div class="flex mt-3">
+                    <div>Beurre et/ou confiture</div>
+                    <div class="grow text-right">0.9 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Huile et tomate</div>
+                    <div class="grow text-right">1.3 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Jambon serrano</div>
+                    <div class="grow text-right">1.6 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Avocat</div>
+                    <div class="grow text-right">1.6 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Miel</div>
+                    <div class="grow text-right">1.6 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-6 py-3 border-t border-dotted border-indigo-900">
+                    <div>Extra</div>
+                    <div class="grow text-right">0.2 €</div>
+                </div>
+                        </div>
+    <div id="Beignets" class="seccion">
+                    <div class="flex gap-4 mb-6">
+                <div class="text-2xl font-bold pt-1">Beignets</div>
+                <div class="grow">
+                    <div class="w-full h-1 mt-6 rounded bg-indigo-900 mx-auto mb-3"></div>
+                </div>
+            </div>
+                                            <small class="block mb-3 max-w-[360px]">De la grand-mère Concha. 50 ans de cuisine avec des ingrédients maison</small>
+                                                <div class="flex mt-3">
+                    <div>Viande</div>
+                    <div class="grow text-right">1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Poulet</div>
+                    <div class="grow text-right">1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>3 couches</div>
+                    <div class="grow text-right">1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Fromage</div>
+                    <div class="grow text-right">1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Grelos aux crevettes</div>
+                    <div class="grow text-right">1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Thon</div>
+                    <div class="grow text-right">1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Champigno</div>
+                    <div class="grow text-right">1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Poulpe</div>
+                    <div class="grow text-right">1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Pétoncles</div>
+                    <div class="grow text-right">1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                        </div>
+    <div id="Hamburgers" class="seccion">
+                    <div class="flex gap-4 mb-6">
+                <div class="text-2xl font-bold pt-1">Hamburgers</div>
+                <div class="grow">
+                    <div class="w-full h-1 mt-6 rounded bg-indigo-900 mx-auto mb-3"></div>
+                </div>
+            </div>
+                                            <small class="block mb-3 max-w-[360px]">De pain artisanal </small>
+                                                <b class="block mt-6 mb-1">Viande</b>
+                                                <small class="block mb-3 max-w-[360px]">mélange maison. 75 % bœuf, 25 % porc</small>
+                                                <div class="flex mt-3">
+                    <div>Simple</div>
+                    <div class="grow text-right">3.2 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Complet</div>
+                    <div class="grow text-right">4.3 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]">Avec laitue, tomate, oignon et fromage </small>
+                                                                <div class="flex mt-3">
+                    <div>Milhomes</div>
+                    <div class="grow text-right">5.3 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]">Avec lard fumé, lomo (échine), tomate, laitue, fromage et oignon</small>
+                                                                <b class="block mt-6 mb-1">Protéine végétale</b>
+                                                <small class="block mb-3 max-w-[360px]">Beyond Meat</small>
+                                                <div class="flex mt-3">
+                    <div>Végétarienne</div>
+                    <div class="grow text-right">5.1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]">Avec laitue, tomate, avocat, oignon et fromage. Cèpes sautés, champignons, oignon, soja, poivrons rouge et vert</small>
+                                                                <div class="flex mt-3">
+                    <div>Végane</div>
+                    <div class="grow text-right">4.6 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]">Avec laitue, tomate, avocat et oignon. Cèpes sautés, champignons, oignon, soja, poivrons rouge et vert</small>
+                                                                <b class="block mt-6 mb-1">Thon blanc</b>
+                                                <div class="flex mt-3">
+                    <div>O vello Simbad</div>
+                    <div class="grow text-right">5.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]">Hamburger de longe de thon blanc dans une sauce soja sans conservateurs. Sauce mayonnaise et wasabi. Cèpes sautés, champignons, oignon, soja, poivrons rouge et vert</small>
+                                        </div>
+    <div id="Sandwichs" class="seccion">
+                    <div class="flex gap-4 mb-6">
+                <div class="text-2xl font-bold pt-1">Sandwichs</div>
+                <div class="grow">
+                    <div class="w-full h-1 mt-6 rounded bg-indigo-900 mx-auto mb-3"></div>
+                </div>
+            </div>
+                                            <div class="flex mt-3">
+                    <div>Lomo</div>
+                    <div class="grow text-right">2.7 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Lard fumé</div>
+                    <div class="grow text-right">2.7 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Chorizo</div>
+                    <div class="grow text-right">2.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Fromage</div>
+                    <div class="grow text-right">2.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Tortilla</div>
+                    <div class="grow text-right">3.1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Jambon serrano</div>
+                    <div class="grow text-right">3.1 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Calamars</div>
+                    <div class="grow text-right">3.6 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Trifásico</div>
+                    <div class="grow text-right">3.7 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]">Bacon, lomo et fromage</small>
+                                                                <div class="flex mt-3">
+                    <div>Poulet</div>
+                    <div class="grow text-right">3.6 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Spécial poulet</div>
+                    <div class="grow text-right">4.7 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]">Poulet, laitue, tomate, oignon et fromage</small>
+                                                                <div class="flex mt-3">
+                    <div>Milmulleres</div>
+                    <div class="grow text-right">5.7 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]">Poulet, lard, lomo, laitue, tomate, oignon et fromage</small>
+                                        </div>
+    <div id="Complementos" class="seccion">
+                                                    <div class="flex mt-6 py-3 border-t border-dotted border-indigo-900">
+                    <div>Pommes frites</div>
+                    <div class="grow text-right">3 €</div>
+                </div>
+                                                <div class="flex mt-6 py-3 border-t border-dotted border-indigo-900">
+                    <div>Salade</div>
+                    <div class="grow text-right">4 €</div>
+                </div>
+                                                <div class="flex mt-6 py-3 border-t border-dotted border-indigo-900">
+                    <div>Supplément tomate, oignon ou laitue</div>
+                    <div class="grow text-right">0.2 €</div>
+                </div>
+                                                <div class="flex mt-6 py-3 border-t border-dotted border-indigo-900">
+                    <div>Supplément lomo, bacon, fromage ou jambon cuit</div>
+                    <div class="grow text-right">0.5 €</div>
+                </div>
+                                                <div class="flex mt-6 py-3 border-t border-dotted border-indigo-900">
+                    <div>Supplément œuf</div>
+                    <div class="grow text-right">0.6 €</div>
+                </div>
+                        </div>
+    <div id="Hot-dogs" class="seccion">
+                    <div class="flex gap-4 mb-6">
+                <div class="text-2xl font-bold pt-1">Hot-dogs</div>
+                <div class="grow">
+                    <div class="w-full h-1 mt-6 rounded bg-indigo-900 mx-auto mb-3"></div>
+                </div>
+            </div>
+                                            <div class="flex mt-3">
+                    <div>Uniquement</div>
+                    <div class="grow text-right">2.8 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-6 py-3 border-t border-dotted border-indigo-900">
+                    <div>Supplémen</div>
+                    <div class="grow text-right">0.5 €</div>
+                </div>
+                        </div>
+    <div id="Sandwich" class="seccion">
+                    <div class="flex gap-4 mb-6">
+                <div class="text-2xl font-bold pt-1">Sandwich</div>
+                <div class="grow">
+                    <div class="w-full h-1 mt-6 rounded bg-indigo-900 mx-auto mb-3"></div>
+                </div>
+            </div>
+                                            <div class="flex mt-3">
+                    <div>Mix</div>
+                    <div class="grow text-right">2.5 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                                                <div class="flex mt-3">
+                    <div>Végétal</div>
+                    <div class="grow text-right">3.5 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]">Avec laitue, tomate, avocat, thon, fromage et oignon. Cèpes sautés, champignons, oignon, soja, poivrons rouge et vert</small>
+                                        </div>
+    <div id="Desserts" class="seccion">
+                    <div class="flex gap-4 mb-6">
+                <div class="text-2xl font-bold pt-1">Desserts</div>
+                <div class="grow">
+                    <div class="w-full h-1 mt-6 rounded bg-indigo-900 mx-auto mb-3"></div>
+                </div>
+            </div>
+                                            <div class="flex mt-3">
+                    <div>Glace</div>
+                    <div class="grow text-right">3 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]">Yaourt, vanille, noisette ou chocolat</small>
+                                                                <div class="flex mt-3">
+                    <div>Coulant au chocolat</div>
+                    <div class="grow text-right">3 €</div>
+                </div>
+                                    <small class="block -mt-1 mb-1 text-indigo-700 max-w-[300px]"></small>
+                                        </div>
+
+<div class="seccion">
+    <small class="inline-block leading-tight">
+        <p>Allergènes : gluten / crustacés / poisson / œuf / arachide / soja / céleri / lait / moutarde / sésame / sulfites / altramuz / mollusques.     </p>
+<p>Établissement adapté en matière d'allergènes selon le règlement (UE) n° 1169/2011 et le décret royal 126/2015. Demandez des informations au personnel.</p>    </small>
+</div>
+<div class="text-center pt-12 pb-24 lg:hidden">
+    <a href="#inicio" class="underline">Remonter</a>
+</div>
+<div class="lg:col-span-2">
+    <img src="/assets/img/padres.png" alt="abuela" class="block px-9 max-w-sm mx-auto" />
+</div>
+
+</div>
+</body>
+
+</html>

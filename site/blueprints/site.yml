@@ -3,3 +3,9 @@ title: Site
 sections:
   pages:
     type: pages
+
+  configuracion:
+    type: fields
+    fields:
+      staticSiteGenerator:
+        label: Generar una versión estática de la web
