@@ -76,7 +76,7 @@ Items:
     de mayonesa y wasabi. Sofrito de setas,
     champiñones, cebolla, soja y pimiento
     rojo y verde
-  precio: 5.8
+  precio: 6
 
 ----
 

@@ -76,4 +76,4 @@ Items:
     mayonnaise et wasabi. Cèpes sautés,
     champignons, oignon, soja, poivrons
     rouge et vert
-  precio: 5.8
+  precio: 6

@@ -79,4 +79,4 @@ Items:
     Mayonnaise-Wasabi-Sauce. Gebratene
     Pilze, Champignons, Zwiebeln, Soja sowie
     rote und grüne Paprika
-  precio: 5.8
+  precio: 6

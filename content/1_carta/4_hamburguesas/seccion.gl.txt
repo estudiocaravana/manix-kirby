@@ -77,4 +77,4 @@ Items:
     maionesa e wasabi. Rustrido de
     cogomelos, champiñóns, cebola, soia e
     pemento vermello e verde
-  precio: 5.8
+  precio: 6

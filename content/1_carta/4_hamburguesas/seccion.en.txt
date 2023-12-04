@@ -75,4 +75,4 @@ Items:
     without preservatives. Mayonnaise and
     wasabi sauce. Mushroom, onion, soy and
     red and green pepper sofrito
-  precio: 5.8
+  precio: 6
