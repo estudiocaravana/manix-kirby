@@ -17,7 +17,7 @@ Items:
     queso y cebolla. Sofrito de setas,
     champiñones, cebolla, soja y pimiento
     rojo y verde
-  precio: 3.5
+  precio: 3.8
 
 ----
 
