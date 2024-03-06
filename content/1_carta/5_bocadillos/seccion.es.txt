@@ -8,32 +8,32 @@ Items:
   tipo: item
   tit: Lomo
   descripcion: ""
-  precio: 2.7
+  precio: 2.9
 - 
   tipo: item
   tit: Bacon
   descripcion: ""
-  precio: 2.7
+  precio: 2.9
 - 
   tipo: item
   tit: Chorizo
   descripcion: ""
-  precio: 2.8
+  precio: 2.9
 - 
   tipo: item
   tit: Queso
   descripcion: ""
-  precio: 2.8
+  precio: 2.9
 - 
   tipo: item
   tit: Tortilla
   descripcion: ""
-  precio: 3.1
+  precio: 3.2
 - 
   tipo: item
   tit: Jamón serrano
   descripcion: ""
-  precio: 3.1
+  precio: 3.2
 - 
   tipo: item
   tit: Calamares
@@ -43,24 +43,24 @@ Items:
   tipo: item
   tit: Trifásico
   descripcion: Bacon, lomo y queso
-  precio: 3.7
+  precio: 4.1
 - 
   tipo: item
   tit: Pollo
   descripcion: ""
-  precio: 3.6
+  precio: 3.8
 - 
   tipo: item
   tit: Especial de pollo
   descripcion: Pollo, lechuga, tomate, cebolla y queso
-  precio: 4.7
+  precio: 5
 - 
   tipo: item
   tit: Milmulleres
   descripcion: >
     Pollo, bacon, lomo, lechuga, tomate,
     cebolla y queso
-  precio: 5.7
+  precio: 6.2
 
 ----
 

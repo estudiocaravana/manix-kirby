@@ -8,7 +8,7 @@ Items:
   tipo: item
   tit: Mix
   descripcion: ""
-  precio: 2.5
+  precio: 2.7
 - 
   tipo: item
   tit: Vegetable
@@ -16,4 +16,4 @@ Items:
     With lettuce, tomato, avocado, tuna,
     cheese and onion. Mushroom, onion, soy
     and red and green pepper sofrito
-  precio: 3.5
+  precio: 3.8

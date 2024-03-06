@@ -28,14 +28,14 @@ Items:
   tipo: item
   tit: Complete
   descripcion: With lettuce, tomato, onion and cheese
-  precio: 4.3
+  precio: 4.4
 - 
   tipo: item
   tit: Milhomes
   descripcion: >
     With bacon, loin, tomato, lettuce,
     cheese and onion
-  precio: 5.3
+  precio: 5.6
 - 
   tipo: subsec
   tit: Vegetal protein
@@ -53,7 +53,7 @@ Items:
     With lettuce, tomato, avocado, onion and
     cheese. Mushroom, onion, soy and red and
     green pepper sofrito
-  precio: 5.1
+  precio: 5.4
 - 
   tipo: item
   tit: Vegan
@@ -61,7 +61,7 @@ Items:
     With lettuce, tomato, avocado and onion.
     Mushroom, onion, soy and red and green
     pepper sofrito
-  precio: 4.6
+  precio: 4.8
 - 
   tipo: subsec
   tit: Albacore

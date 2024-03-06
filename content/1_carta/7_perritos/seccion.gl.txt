@@ -8,7 +8,7 @@ Items:
   tipo: item
   tit: Só
   descripcion: ""
-  precio: 2.8
+  precio: 3
 - 
   tipo: extra
   tit: Extra

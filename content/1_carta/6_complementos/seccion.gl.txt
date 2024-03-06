@@ -8,7 +8,7 @@ Items:
   tipo: extra
   tit: 'Patacas frixidas '
   descripcion: ""
-  precio: 3
+  precio: 3.2
 - 
   tipo: extra
   tit: Ensalada
@@ -25,7 +25,7 @@ Items:
     Extra de lombo, beicon, queixo ou xamón
     cocido
   descripcion: ""
-  precio: 0.5
+  precio: 0.6
 - 
   tipo: extra
   tit: Extra de ovo

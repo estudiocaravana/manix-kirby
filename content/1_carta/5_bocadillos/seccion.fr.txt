@@ -8,32 +8,32 @@ Items:
   tipo: item
   tit: Lomo
   descripcion: ""
-  precio: 2.7
+  precio: 2.9
 - 
   tipo: item
   tit: Lard fumé
   descripcion: ""
-  precio: 2.7
+  precio: 2.9
 - 
   tipo: item
   tit: Chorizo
   descripcion: ""
-  precio: 2.8
+  precio: 2.9
 - 
   tipo: item
   tit: Fromage
   descripcion: ""
-  precio: 2.8
+  precio: 2.9
 - 
   tipo: item
   tit: Tortilla
   descripcion: ""
-  precio: 3.1
+  precio: 3.2
 - 
   tipo: item
   tit: Jambon serrano
   descripcion: ""
-  precio: 3.1
+  precio: 3.2
 - 
   tipo: item
   tit: Calamars
@@ -43,23 +43,23 @@ Items:
   tipo: item
   tit: Trifásico
   descripcion: Bacon, lomo et fromage
-  precio: 3.7
+  precio: 4.1
 - 
   tipo: item
   tit: Poulet
   descripcion: ""
-  precio: 3.6
+  precio: 3.8
 - 
   tipo: item
   tit: Spécial poulet
   descripcion: >
     Poulet, laitue, tomate, oignon et
     fromage
-  precio: 4.7
+  precio: 5
 - 
   tipo: item
   tit: Milmulleres
   descripcion: >
     Poulet, lard, lomo, laitue, tomate,
     oignon et fromage
-  precio: 5.7
+  precio: 6.2

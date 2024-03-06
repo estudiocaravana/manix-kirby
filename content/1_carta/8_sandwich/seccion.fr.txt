@@ -8,7 +8,7 @@ Items:
   tipo: item
   tit: Mix
   descripcion: ""
-  precio: 2.5
+  precio: 2.7
 - 
   tipo: item
   tit: Végétal
@@ -17,4 +17,4 @@ Items:
     fromage et oignon. Cèpes sautés,
     champignons, oignon, soja, poivrons
     rouge et vert
-  precio: 3.5
+  precio: 3.8

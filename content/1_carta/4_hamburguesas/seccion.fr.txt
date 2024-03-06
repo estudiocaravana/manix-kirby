@@ -28,14 +28,14 @@ Items:
   tipo: item
   tit: Complet
   descripcion: 'Avec laitue, tomate, oignon et fromage '
-  precio: 4.3
+  precio: 4.4
 - 
   tipo: item
   tit: Milhomes
   descripcion: >
     Avec lard fumé, lomo (échine), tomate,
     laitue, fromage et oignon
-  precio: 5.3
+  precio: 5.6
 - 
   tipo: subsec
   tit: Protéine végétale
@@ -53,7 +53,7 @@ Items:
     Avec laitue, tomate, avocat, oignon et
     fromage. Cèpes sautés, champignons,
     oignon, soja, poivrons rouge et vert
-  precio: 5.1
+  precio: 5.4
 - 
   tipo: item
   tit: Végane
@@ -61,7 +61,7 @@ Items:
     Avec laitue, tomate, avocat et oignon.
     Cèpes sautés, champignons, oignon,
     soja, poivrons rouge et vert
-  precio: 4.6
+  precio: 4.8
 - 
   tipo: subsec
   tit: Thon blanc

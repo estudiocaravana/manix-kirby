@@ -28,14 +28,14 @@ Items:
   tipo: item
   tit: Completa
   descripcion: Con leituga, tomate, cebola e queixo
-  precio: 4.3
+  precio: 4.4
 - 
   tipo: item
   tit: Milhomes
   descripcion: >
     Con beicon, lombo, tomate, leituga,
     queixo e cebola
-  precio: 5.3
+  precio: 5.6
 - 
   tipo: subsec
   tit: Proteína vexetal
@@ -54,7 +54,7 @@ Items:
     queixo. Rustrido de cogomelos,
     champiñóns, cebola, soia e pemento
     vermello e verde
-  precio: 5.1
+  precio: 5.4
 - 
   tipo: item
   tit: Vegana
@@ -62,7 +62,7 @@ Items:
     Con leituga, tomate, aguacate e cebola.
     Rustrido de cogomelos, champiñóns,
     cebola, soia e pemento vermello e verde
-  precio: 4.6
+  precio: 4.8
 - 
   tipo: subsec
   tit: Bonito

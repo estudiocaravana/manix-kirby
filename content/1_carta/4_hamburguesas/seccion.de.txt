@@ -28,14 +28,14 @@ Items:
   tipo: item
   tit: Komplett
   descripcion: Mit Salat, Tomaten, Zwiebeln und Käse
-  precio: 4.3
+  precio: 4.4
 - 
   tipo: item
   tit: Milhomes
   descripcion: >
     Mit Speck, Schweinefilet, Tomaten,
     Salat, Käse und Zwiebeln
-  precio: 5.3
+  precio: 5.6
 - 
   tipo: subsec
   tit: Pflanzliches Protein
@@ -54,7 +54,7 @@ Items:
     und Käse. Gebratene Pilze, Champignons,
     Zwiebeln, Soja sowie rote und grüne
     Paprika
-  precio: 5.1
+  precio: 5.4
 - 
   tipo: item
   tit: Vegan
@@ -63,7 +63,7 @@ Items:
     Zwiebeln. Gebratene Pilze, Champignons,
     Zwiebeln, Soja sowie rote und grüne
     Paprika
-  precio: 4.6
+  precio: 4.8
 - 
   tipo: subsec
   tit: Weiße Thun
