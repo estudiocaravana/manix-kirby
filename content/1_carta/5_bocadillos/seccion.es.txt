@@ -8,54 +8,99 @@ Items:
   tipo: item
   tit: Lomo
   descripcion: ""
+<<<<<<< HEAD
   precio: 3.1
+=======
+  precio: 2.9
+>>>>>>> main
 - 
   tipo: item
   tit: Bacon
   descripcion: ""
+<<<<<<< HEAD
   precio: 3.1
+=======
+  precio: 2.9
+>>>>>>> main
 - 
   tipo: item
   tit: Chorizo
   descripcion: ""
+<<<<<<< HEAD
   precio: 3.1
+=======
+  precio: 2.9
+>>>>>>> main
 - 
   tipo: item
   tit: Queso
   descripcion: ""
+<<<<<<< HEAD
   precio: 3.1
+=======
+  precio: 2.9
+>>>>>>> main
 - 
   tipo: item
   tit: Tortilla
   descripcion: ""
+<<<<<<< HEAD
   precio: 3.3
+=======
+  precio: 3.2
+>>>>>>> main
 - 
   tipo: item
   tit: Jamón serrano
   descripcion: ""
+<<<<<<< HEAD
   precio: 3.3
+=======
+  precio: 3.2
+- 
+  tipo: item
+  tit: Calamares
+  descripcion: ""
+  precio: 3.6
+>>>>>>> main
 - 
   tipo: item
   tit: Trifásico
   descripcion: Bacon, lomo y queso
+<<<<<<< HEAD
   precio: 4.3
+=======
+  precio: 4.1
+>>>>>>> main
 - 
   tipo: item
   tit: Pollo
   descripcion: ""
+<<<<<<< HEAD
   precio: 4
+=======
+  precio: 3.8
+>>>>>>> main
 - 
   tipo: item
   tit: Especial de pollo
   descripcion: Pollo, lechuga, tomate, cebolla y queso
+<<<<<<< HEAD
   precio: 5.2
+=======
+  precio: 5
+>>>>>>> main
 - 
   tipo: item
   tit: Milmulleres
   descripcion: >
     Pollo, bacon, lomo, lechuga, tomate,
     cebolla y queso
+<<<<<<< HEAD
   precio: 6.4
+=======
+  precio: 6.2
+>>>>>>> main
 
 ----
 

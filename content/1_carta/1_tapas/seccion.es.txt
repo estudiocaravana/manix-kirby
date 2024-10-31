@@ -8,47 +8,83 @@ Items:
   tipo: item
   tit: Tortilla
   descripcion: ""
+<<<<<<< HEAD
   precio: 1
+=======
+  precio: 0.9
+>>>>>>> main
 - 
   tipo: item
   tit: Calamares fritos
   descripcion: ""
+<<<<<<< HEAD
   precio: 1
+=======
+  precio: 0.9
+>>>>>>> main
 - 
   tipo: item
   tit: Calamares en tinta
   descripcion: ""
+<<<<<<< HEAD
   precio: 1
+=======
+  precio: 0.9
+>>>>>>> main
 - 
   tipo: item
   tit: Albóndigas
   descripcion: ""
+<<<<<<< HEAD
   precio: 1
+=======
+  precio: 0.9
+>>>>>>> main
 - 
   tipo: item
   tit: Costilla guisada
   descripcion: ""
+<<<<<<< HEAD
   precio: 1
+=======
+  precio: 0.9
+>>>>>>> main
 - 
   tipo: item
   tit: Callos
   descripcion: ""
+<<<<<<< HEAD
   precio: 1
+=======
+  precio: 0.9
+>>>>>>> main
 - 
   tipo: item
   tit: Riñones
   descripcion: ""
+<<<<<<< HEAD
   precio: 1
+=======
+  precio: 0.9
+>>>>>>> main
 - 
   tipo: item
   tit: Aceitunas
   descripcion: ""
+<<<<<<< HEAD
   precio: 1
+=======
+  precio: 0.9
+>>>>>>> main
 - 
   tipo: extra
   tit: Tapa doble
   descripcion: ""
+<<<<<<< HEAD
   precio: 2
+=======
+  precio: 1.8
+>>>>>>> main
 - 
   tipo: extra
   tit: Ración
