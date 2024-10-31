@@ -38,12 +38,12 @@ Items:
   tipo: item
   tit: Donuts
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Croissants
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: subsec
   tit: Tostadas
@@ -61,29 +61,79 @@ Items:
   precio: 0.9
 - 
   tipo: item
+  tit: Mantequilla y tomate
+  descripcion: ""
+  precio: 1.1
+- 
+  tipo: item
   tit: Aceite y tomate
   descripcion: ""
-  precio: 1.3
+  precio: 1.4
 - 
   tipo: item
   tit: Jamón serrano
   descripcion: ""
-  precio: 1.6
+  precio: 1.7
 - 
   tipo: item
   tit: Aguacate
   descripcion: ""
-  precio: 1.6
+  precio: 1.7
 - 
   tipo: item
   tit: Miel
   descripcion: ""
-  precio: 1.6
+  precio: 1.7
 - 
   tipo: extra
   tit: Extra
   descripcion: ""
+  precio: 0.3
+- 
+  tipo: subsec
+  tit: Piollos
+  descripcion: ""
+  precio: ""
+- 
+  tipo: item
+  tit: York con queso
+  descripcion: ""
+  precio: 1.1
+- 
+  tipo: item
+  tit: Serrano con tomate
+  descripcion: ""
+  precio: 1.1
+- 
+  tipo: item
+  tit: Lomo
+  descripcion: ""
+  precio: 1.45
+- 
+  tipo: item
+  tit: Bacon
+  descripcion: ""
+  precio: 1.45
+- 
+  tipo: item
+  tit: Pollo
+  descripcion: ""
+  precio: 1.9
+- 
+  tipo: item
+  tit: Vegetal
+  descripcion: ""
+  precio: 1.9
+- 
+  tipo: extra
+  tit: Vegetal
+  descripcion: ""
   precio: 0.2
+- 
+  tipo: extra
+  tit: York, queso, bacon o lomo
+  descripcion: ""
+  precio: 0.4
 
 ----
 

@@ -8,32 +8,32 @@ Items:
   tipo: item
   tit: Loin
   descripcion: ""
-  precio: 2.7
+  precio: 2.9
 - 
   tipo: item
   tit: Bacon
   descripcion: ""
-  precio: 2.7
+  precio: 2.9
 - 
   tipo: item
   tit: Chorizo
   descripcion: ""
-  precio: 2.8
+  precio: 2.9
 - 
   tipo: item
   tit: Cheese
   descripcion: ""
-  precio: 2.8
+  precio: 2.9
 - 
   tipo: item
   tit: Tortilla
   descripcion: ""
-  precio: 3.1
+  precio: 3.2
 - 
   tipo: item
   tit: Serrano
   descripcion: ""
-  precio: 3.1
+  precio: 3.2
 - 
   tipo: item
   tit: Squid
@@ -43,23 +43,23 @@ Items:
   tipo: item
   tit: Trifásico
   descripcion: Bacon, loin and cheese
-  precio: 3.7
+  precio: 4.1
 - 
   tipo: item
   tit: Chicken
   descripcion: ""
-  precio: 3.6
+  precio: 3.8
 - 
   tipo: item
   tit: Chicken Special
   descripcion: >
     Chicken, lettuce, tomato, onion and
     cheese
-  precio: 4.7
+  precio: 5
 - 
   tipo: item
   tit: Milmulleres
   descripcion: >
     Chicken, bacon, loin, lettuce, tomato,
     onion and cheese
-  precio: 5.7
+  precio: 6.2

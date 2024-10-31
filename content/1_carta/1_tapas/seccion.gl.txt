@@ -8,47 +8,47 @@ Items:
   tipo: item
   tit: Tortilla
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: Luras frixidas
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: 'Luras en tinta '
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: 'Albóndegas '
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: Costela guisada
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: Callos
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: Riles
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: Olivas
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: extra
   tit: Tapa dobre
   descripcion: ""
-  precio: 1.6
+  precio: 1.8
 - 
   tipo: extra
   tit: Ración

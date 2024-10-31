@@ -8,32 +8,32 @@ Items:
   tipo: item
   tit: Lombo
   descripcion: ""
-  precio: 2.7
+  precio: 2.9
 - 
   tipo: item
   tit: Beicon
   descripcion: ""
-  precio: 2.7
+  precio: 2.9
 - 
   tipo: item
   tit: 'Chourizo '
   descripcion: ""
-  precio: 2.8
+  precio: 2.9
 - 
   tipo: item
   tit: Queixo
   descripcion: ""
-  precio: 2.8
+  precio: 2.9
 - 
   tipo: item
   tit: Tortilla
   descripcion: ""
-  precio: 3.1
+  precio: 3.2
 - 
   tipo: item
   tit: Xamón curado
   descripcion: ""
-  precio: 3.1
+  precio: 3.2
 - 
   tipo: item
   tit: Luras
@@ -43,21 +43,21 @@ Items:
   tipo: item
   tit: Trifásico
   descripcion: 'Beicon, lombo e queixo '
-  precio: 3.7
+  precio: 4.1
 - 
   tipo: item
   tit: Polo
   descripcion: ""
-  precio: 3.6
+  precio: 3.8
 - 
   tipo: item
   tit: Especial de polo
   descripcion: 'Polo, leituga, tomate, cebola e queixo '
-  precio: 4.7
+  precio: 5
 - 
   tipo: item
   tit: Milmulleres
   descripcion: >
     Polo, beicon, lombo, leituga, tomate,
     cebola e queixo
-  precio: 5.7
+  precio: 6.2

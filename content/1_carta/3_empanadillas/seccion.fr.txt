@@ -15,44 +15,44 @@ Items:
   tipo: item
   tit: Viande
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Poulet
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: 3 couches
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Fromage
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Grelos aux crevettes
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Thon
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Champigno
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Poulpe
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Pétoncles
   descripcion: ""
-  precio: 1
+  precio: 1.1

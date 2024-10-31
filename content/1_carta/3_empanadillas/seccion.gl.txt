@@ -15,44 +15,44 @@ Items:
   tipo: item
   tit: Carne
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Polo
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Trifásica
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Queixo
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Grelos con gambas
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Atún
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Cogomelos
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Polbo
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Zamburiñas
   descripcion: ""
-  precio: 1
+  precio: 1.1

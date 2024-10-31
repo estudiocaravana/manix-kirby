@@ -8,57 +8,57 @@ Items:
   tipo: item
   tit: Tortilla
   descripcion: ""
-  precio: 0.8
+  precio: 1
 - 
   tipo: item
   tit: Calamares fritos
   descripcion: ""
-  precio: 0.8
+  precio: 1
 - 
   tipo: item
   tit: Calamares en tinta
   descripcion: ""
-  precio: 0.8
+  precio: 1
 - 
   tipo: item
   tit: Albóndigas
   descripcion: ""
-  precio: 0.8
+  precio: 1
 - 
   tipo: item
   tit: Costilla guisada
   descripcion: ""
-  precio: 0.8
+  precio: 1
 - 
   tipo: item
   tit: Callos
   descripcion: ""
-  precio: 0.8
+  precio: 1
 - 
   tipo: item
   tit: Riñones
   descripcion: ""
-  precio: 0.8
+  precio: 1
 - 
   tipo: item
   tit: Aceitunas
   descripcion: ""
-  precio: 0.8
+  precio: 1
 - 
   tipo: extra
   tit: Tapa doble
   descripcion: ""
-  precio: 1.6
+  precio: 2
 - 
   tipo: extra
   tit: Ración
   descripcion: ""
-  precio: 4
+  precio: 4.5
 - 
   tipo: extra
   tit: Pan
   descripcion: ""
-  precio: 1.5
+  precio: 1.7
 
 ----
 

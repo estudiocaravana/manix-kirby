@@ -10,11 +10,6 @@ Items:
   descripcion: ""
   precio: ""
 - 
-  tipo: subsec
-  tit: Carne
-  descripcion: ""
-  precio: ""
-- 
   tipo: subtit
   tit: 'Mezcla casera. 75% ternera, 25% cerdo'
   descripcion: ""
@@ -23,27 +18,22 @@ Items:
   tipo: item
   tit: Simple
   descripcion: ""
-  precio: 3.2
+  precio: 3.4
 - 
   tipo: item
   tit: Completa
   descripcion: Con lechuga, tomate, cebolla y queso
-  precio: 4.3
+  precio: 4.6
 - 
   tipo: item
   tit: Milhomes
   descripcion: >
     Con bacon, lomo, tomate, lechuga, queso
     y cebolla
-  precio: 5.3
-- 
-  tipo: subsec
-  tit: Proteína vegetal
-  descripcion: ""
-  precio: ""
+  precio: 5.7
 - 
   tipo: subtit
-  tit: Beyond Meat
+  tit: Proteína vegetal Beyond Meat
   descripcion: ""
   precio: ""
 - 
@@ -53,7 +43,7 @@ Items:
     Con lechuga, tomate, aguacate, cebolla y
     queso. Sofrito de setas, champiñones,
     cebolla, soja y pimiento rojo y verde
-  precio: 5.1
+  precio: 5.7
 - 
   tipo: item
   tit: Vegana
@@ -61,9 +51,9 @@ Items:
     Con lechuga, tomate, aguacate y cebolla.
     Sofrito de setas, champiñones, cebolla,
     soja y pimiento rojo y verde
-  precio: 4.6
+  precio: 5
 - 
-  tipo: subsec
+  tipo: subtit
   tit: Bonito
   descripcion: ""
   precio: ""
@@ -76,7 +66,7 @@ Items:
     de mayonesa y wasabi. Sofrito de setas,
     champiñones, cebolla, soja y pimiento
     rojo y verde
-  precio: 5.8
+  precio: 6
 
 ----
 

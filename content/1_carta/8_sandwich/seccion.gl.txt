@@ -8,7 +8,7 @@ Items:
   tipo: item
   tit: Mixto
   descripcion: ""
-  precio: 2.5
+  precio: 2.7
 - 
   tipo: item
   tit: Vexetal
@@ -17,4 +17,4 @@ Items:
     queixo e cebola. Rustrido de cogomelos,
     champiñóns, cebola, soia e pemento
     vermello e verde
-  precio: 3.5
+  precio: 3.8

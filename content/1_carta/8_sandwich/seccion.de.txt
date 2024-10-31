@@ -8,7 +8,7 @@ Items:
   tipo: item
   tit: e-Mix
   descripcion: ""
-  precio: 2.5
+  precio: 2.7
 - 
   tipo: item
   tit: Gemüse
@@ -17,4 +17,4 @@ Items:
     Zwiebeln. Gebratene Pilze, Champignons,
     Zwiebeln, Soja sowie rote und grüne
     Paprika
-  precio: 3.5
+  precio: 3.8

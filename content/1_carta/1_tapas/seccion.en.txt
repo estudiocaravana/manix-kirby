@@ -8,47 +8,47 @@ Items:
   tipo: item
   tit: Omelette
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: Fried squid
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: 'Squid in ink '
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: Meatballs
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: Stewed rib
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: Tripe
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: Kidneys
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: item
   tit: Olives
   descripcion: ""
-  precio: 0.8
+  precio: 0.9
 - 
   tipo: extra
   tit: Double
   descripcion: ""
-  precio: 1.6
+  precio: 1.8
 - 
   tipo: extra
   tit: 'Top Serving '

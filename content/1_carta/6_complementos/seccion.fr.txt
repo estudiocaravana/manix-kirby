@@ -8,7 +8,7 @@ Items:
   tipo: extra
   tit: Pommes frites
   descripcion: ""
-  precio: 3
+  precio: 3.2
 - 
   tipo: extra
   tit: Salade
@@ -25,7 +25,7 @@ Items:
     Supplément lomo, bacon, fromage ou
     jambon cuit
   descripcion: ""
-  precio: 0.5
+  precio: 0.6
 - 
   tipo: extra
   tit: Supplément œuf

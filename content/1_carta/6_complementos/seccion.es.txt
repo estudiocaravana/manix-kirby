@@ -8,7 +8,7 @@ Items:
   tipo: extra
   tit: Patatas fritas
   descripcion: ""
-  precio: 3
+  precio: 3.2
 - 
   tipo: extra
   tit: Ensalada
@@ -23,7 +23,7 @@ Items:
   tipo: extra
   tit: Extra de lomo, bacon, queso o york
   descripcion: ""
-  precio: 0.5
+  precio: 0.6
 - 
   tipo: extra
   tit: Extra de huevo

@@ -15,44 +15,44 @@ Items:
   tipo: item
   tit: Fleisch
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: 'Hähnchen '
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Trifásico (Kaffee mit drei Schichten)
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Käse
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Steckrüben mit Garnelen
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Thunfisch
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: 'Pilze '
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: 'Tintenfisch '
   descripcion: ""
-  precio: 1
+  precio: 1.1
 - 
   tipo: item
   tit: Zamburiñas (Kammmuscheln)
   descripcion: ""
-  precio: 1
+  precio: 1.1

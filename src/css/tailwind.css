@@ -19,6 +19,6 @@
     @apply py-9 mx-auto px-9 md:w-full max-w-lg;
   }
   .anclas {
-    @apply inline-block px-2;
+    @apply inline-block px-2 text-amber-500;
   }
 }

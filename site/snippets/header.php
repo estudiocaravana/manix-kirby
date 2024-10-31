@@ -20,5 +20,12 @@
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 
-<body id="body" class="bg-repeat" style="background-image: url(<?= url('/assets/img/tabla.jpg') ?>)">
-    <div class="mx-auto overflow-hidden min-h-screen md:grid md:grid-cols-2 lg:border-4 lg:border-indigo-900 xl:max-w-6xl xl:my-12 lg:px-12">
+<body id="body" class="bg-repeat" style="background-image: url(<?= url('/assets/img/nnnoise.svg') ?>)">
+    <div class="bg-white relative mx-auto overflow-hidden min-h-screen lg:border-x lg:border-indigo-100 xl:max-w-7xl lg:py-12">
+        <!-- línea central -->
+        <div class="absolute top-0 bottom-0 left-1/2 h-full border-l border-indigo-100 z-0 hidden md:block xl:hidden"></div>
+        <!-- columna central -->
+        <div class="absolute top-0 bottom-0 left-1/2 -translate-x-1/2 w-1/3 h-full border-x border-indigo-100 z-0 hidden xl:block"></div>
+        <div class="relative z-10">
+
+            <div class="md:grid md:grid-cols-2 xl:grid-cols-3">
