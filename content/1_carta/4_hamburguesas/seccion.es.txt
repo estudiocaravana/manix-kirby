@@ -23,27 +23,14 @@ Items:
   tipo: item
   tit: Completa
   descripcion: Con lechuga, tomate, cebolla y queso
-<<<<<<< HEAD
   precio: 4.6
-=======
-  precio: 4.4
->>>>>>> main
 - 
   tipo: item
   tit: Milhomes
   descripcion: >
     Con bacon, lomo, tomate, lechuga, queso
     y cebolla
-<<<<<<< HEAD
   precio: 5.7
-=======
-  precio: 5.6
-- 
-  tipo: subsec
-  tit: Proteína vegetal
-  descripcion: ""
-  precio: ""
->>>>>>> main
 - 
   tipo: subtit
   tit: Proteína vegetal Beyond Meat
@@ -56,11 +43,7 @@ Items:
     Con lechuga, tomate, aguacate, cebolla y
     queso. Sofrito de setas, champiñones,
     cebolla, soja y pimiento rojo y verde
-<<<<<<< HEAD
   precio: 5.7
-=======
-  precio: 5.4
->>>>>>> main
 - 
   tipo: item
   tit: Vegana
@@ -68,11 +51,7 @@ Items:
     Con lechuga, tomate, aguacate y cebolla.
     Sofrito de setas, champiñones, cebolla,
     soja y pimiento rojo y verde
-<<<<<<< HEAD
   precio: 5
-=======
-  precio: 4.8
->>>>>>> main
 - 
   tipo: subtit
   tit: Bonito

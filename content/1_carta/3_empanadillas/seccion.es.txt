@@ -15,83 +15,47 @@ Items:
   tipo: item
   tit: Carne
   descripcion: ""
-<<<<<<< HEAD
   precio: 1.2
-=======
-  precio: 1.1
->>>>>>> main
 - 
   tipo: item
   tit: Pollo
   descripcion: ""
-<<<<<<< HEAD
   precio: 1.2
-=======
-  precio: 1.1
->>>>>>> main
 - 
   tipo: item
   tit: Trifásica
   descripcion: ""
-<<<<<<< HEAD
   precio: 1.2
-=======
-  precio: 1.1
->>>>>>> main
 - 
   tipo: item
   tit: Queso
   descripcion: ""
-<<<<<<< HEAD
   precio: 1.2
-=======
-  precio: 1.1
->>>>>>> main
 - 
   tipo: item
   tit: Grelos con gambas
   descripcion: ""
-<<<<<<< HEAD
   precio: 1.2
-=======
-  precio: 1.1
->>>>>>> main
 - 
   tipo: item
   tit: Atún
   descripcion: ""
-<<<<<<< HEAD
   precio: 1.2
-=======
-  precio: 1.1
->>>>>>> main
 - 
   tipo: item
   tit: Setas
   descripcion: ""
-<<<<<<< HEAD
   precio: 1.2
-=======
-  precio: 1.1
->>>>>>> main
 - 
   tipo: item
   tit: Pulpo
   descripcion: ""
-<<<<<<< HEAD
   precio: 1.2
-=======
-  precio: 1.1
->>>>>>> main
 - 
   tipo: item
   tit: Zamburiñas
   descripcion: ""
-<<<<<<< HEAD
   precio: 1.2
-=======
-  precio: 1.1
->>>>>>> main
 
 ----
 

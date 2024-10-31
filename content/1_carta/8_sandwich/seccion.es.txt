@@ -8,11 +8,7 @@ Items:
   tipo: item
   tit: Mixto
   descripcion: ""
-<<<<<<< HEAD
   precio: 2.9
-=======
-  precio: 2.7
->>>>>>> main
 - 
   tipo: item
   tit: Vegetal
@@ -21,11 +17,7 @@ Items:
     queso y cebolla. Sofrito de setas,
     champiñones, cebolla, soja y pimiento
     rojo y verde
-<<<<<<< HEAD
   precio: 4.1
-=======
-  precio: 3.8
->>>>>>> main
 
 ----
 
