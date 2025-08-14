@@ -13,7 +13,7 @@ Items:
   tipo: item
   tit: Coulant de chocolate
   descripcion: ""
-  precio: 3
+  precio: 3.2
 
 ----
 

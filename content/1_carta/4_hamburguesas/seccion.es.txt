@@ -18,19 +18,19 @@ Items:
   tipo: item
   tit: Simple
   descripcion: ""
-  precio: 3.4
+  precio: 3.7
 - 
   tipo: item
   tit: Completa
   descripcion: Con lechuga, tomate, cebolla y queso
-  precio: 4.6
+  precio: 4.9
 - 
   tipo: item
   tit: Milhomes
   descripcion: >
     Con bacon, lomo, tomate, lechuga, queso
     y cebolla
-  precio: 5.7
+  precio: 6
 - 
   tipo: subtit
   tit: Proteína vegetal Beyond Meat
@@ -43,7 +43,7 @@ Items:
     Con lechuga, tomate, aguacate, cebolla y
     queso. Sofrito de setas, champiñones,
     cebolla, soja y pimiento rojo y verde
-  precio: 5.7
+  precio: 5.8
 - 
   tipo: item
   tit: Vegana
@@ -51,22 +51,7 @@ Items:
     Con lechuga, tomate, aguacate y cebolla.
     Sofrito de setas, champiñones, cebolla,
     soja y pimiento rojo y verde
-  precio: 5
-- 
-  tipo: subtit
-  tit: Bonito
-  descripcion: ""
-  precio: ""
-- 
-  tipo: item
-  tit: O vello Simbad
-  descripcion: >
-    Hamburguesa de lomo de bonito de lonja
-    en salsa de soja sin conservantes. Salsa
-    de mayonesa y wasabi. Sofrito de setas,
-    champiñones, cebolla, soja y pimiento
-    rojo y verde
-  precio: 6
+  precio: 5.1
 
 ----
 
